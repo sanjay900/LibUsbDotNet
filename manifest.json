@@ -1,0 +1,1208 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/LibUsbDotNet/LibUsbDotNet/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.BosDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.BosDescriptor.html",
+          "hash": "b2bOwfCthWJ2T7RTOkHxejLwuYnM7hAYqquxrCrV0gU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.BosDevCapabilityDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.BosDevCapabilityDescriptor.html",
+          "hash": "m5Y1nQXUOfaEbZpddnV3DLqUqUbtgROmUPeKuL9P+FM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.BosType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.BosType.html",
+          "hash": "l2aPdDv5kTzAyiCoiGKQYzwjo/4VlEArVcohTOdULyU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Capability.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Capability.html",
+          "hash": "73MNOl+8j3YGHvnEvXhf5Vc1eJR0yNBpOGTlRouvczg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.ClassCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.ClassCode.html",
+          "hash": "vNvglThlmMksQfRA2E12EpSNjxhZbuBRnfFSaBDzFM0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.ConfigDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.ConfigDescriptor.html",
+          "hash": "diCiMfK9Ei6q9F5qU/ZI0GjrLWq6vPrmB+mUQW4OsXQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.ContainerIdDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.ContainerIdDescriptor.html",
+          "hash": "ccVNI7k3OLeFr1xuEqXEwDGCyp+DySQiIKvGjcHxtSg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Context.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Context.html",
+          "hash": "1ZkrBqLFj5PDqm6Iy4XSoACBdwh7vwzC4bv1mvImxYs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.ControlSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.ControlSetup.html",
+          "hash": "rh1MKSNB2Y4pK5coiTswNQketrRN7z+Wbccccn/6JPg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.DescriptorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.DescriptorType.html",
+          "hash": "KGpDJKGgpWYvNe/R2PHf6D3WHALlDE9yqIImKCwNfwg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Descriptors.UsbDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Descriptors.UsbDescriptor.html",
+          "hash": "vT80sZHwmYlCUmOkwYZdfoJmZnOy7eKTf2+/llMsb6A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Descriptors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Descriptors.html",
+          "hash": "XiUc6fuqi1B0iLR/8PeVrzI7hATLkyCd9DeKhMaQzgs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Device.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Device.html",
+          "hash": "onlL8iecvVYnYI7MZAu74/eRB0oZX2Np1a43n8ptYHU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.DeviceDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.DeviceDescriptor.html",
+          "hash": "itgW3FaB7rFT0V+gHlHyj8ogRGGN86151rd5RaX0j+Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.DeviceHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.DeviceHandle.html",
+          "hash": "nW5AWSQudaoZDRRQOs4OB9b0+XCGHHacLDadn35ITBE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.EndpointDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.EndpointDescriptor.html",
+          "hash": "Yxob7U5t+/TP1MR1i9p6G+BclTQoim6L4OZ/V4Ld0X8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.EndpointDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.EndpointDirection.html",
+          "hash": "hXejcPHIMJ0FWE1tKWQxUnFqogrIkgYL+bf/EFWTkks="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Error.html",
+          "hash": "qJrAA0rtLl2DacrLKgzwGzAAs8YVm+1LRlhAv2WBgx8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.HotplugCallbackFn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.HotplugCallbackFn.html",
+          "hash": "C/034/P9RX4p6IE/iX/AjgkUyxjiIhFDFHQLXTFlBRA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.HotplugEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.HotplugEvent.html",
+          "hash": "jolWjkdAHaeTDehSYvhx4wzl8CRUUiL/CJiL1Tq7e/U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.HotplugFlag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.HotplugFlag.html",
+          "hash": "TU9lGHIYAJPOu8f2rmc5Hxnig2LPXmk2r8r/D+mG2ws="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.CachedDeviceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.CachedDeviceInfo.html",
+          "hash": "H5XQ5MGbbxbt63KYgwpk/nh/IHiTGNab7kScMaPY3BA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.LocationId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.LocationId.html",
+          "hash": "E4I6Lkwu8V4OQOpWmYng+nPrFss2dtWC853ku4eNSIs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.PhysicalPortId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.PhysicalPortId.html",
+          "hash": "uBoeR4gp3diZ8+uZyLokyomcRNHJXI6dyh6kHFamczE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.UsbBaseInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.UsbBaseInfo.html",
+          "hash": "mtpahHLAZCxt3IgvUu5//flFV41tRiuxwkQyBdA1syE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.UsbConfigInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.UsbConfigInfo.html",
+          "hash": "uK/8uzAGLHyFIpUmcoXvv2U9PqbOUpfB6ORn9EXc1Mc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.UsbDeviceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.UsbDeviceInfo.html",
+          "hash": "tfRHOaVXrP7PSsPFf5bwlkWfuSUUjkL5C8qh20Jj6Qg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.UsbEndpointInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.UsbEndpointInfo.html",
+          "hash": "tIOm0NziIOsCd+2R1Au3R43FIFP23LP0Zezh6kUGHnI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.UsbInterfaceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.UsbInterfaceInfo.html",
+          "hash": "U9n2+QSeuFOJMAC6oIj1WNAlh8EktZ8fw7HcLK0/3E8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Info.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Info.html",
+          "hash": "CWtrM66ztnnfKv5EuaNAfKWlOg6tAuvOw64cKkQbA88="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Interface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Interface.html",
+          "hash": "sMYfncEOXS5+WteQZ8/CeopgLwTXJSul5t4voasxa9w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.InterfaceDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.InterfaceDescriptor.html",
+          "hash": "i+D/dGs2OgA5Ho9usH2SmmlEx1ZxOON16GCxtG1Tw/E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.IsoPacketDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.IsoPacketDescriptor.html",
+          "hash": "EgbUbyKRogiq1LyTW6YnMWE0d3ABPmzDOgvhJQlruHw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.IsoSyncType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.IsoSyncType.html",
+          "hash": "yEUSBoNtwDufiGsyD/cpowXDirvKx1V/pLV/4Kfg3v8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.IsoUsageType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.IsoUsageType.html",
+          "hash": "RbFOXWSvUi/HxEx0nxLFuN5FayGoCDh6gqDln4P+zUI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.DeviceArrivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.DeviceArrivedEventArgs.html",
+          "hash": "0Wt5QiS07hrDipjAQpx9MtU/umds8jHYEEWKZDHnV1c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.DeviceEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.DeviceEventArgs.html",
+          "hash": "86sqCO4AauEjl96uPRFrl3KE4TJpLAwc1epByscHAoc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.DeviceLeftEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.DeviceLeftEventArgs.html",
+          "hash": "1dJk8yfz7Jvsa5SlhQPkElRbIfluTUm3BS6+G/LHUJ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.DeviceManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.DeviceManager.html",
+          "hash": "2iXhOc5y/pV+GDfslpQ73cEOsQLVs6Y40FevOngJjDA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.ErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.ErrorExtensions.html",
+          "hash": "C4GV4cKRBQxz5X8M2s8fVgErVJg8qHp4+wi2wtIRtZ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.HotplugOptionFlag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.HotplugOptionFlag.html",
+          "hash": "+Pjl+u5Q4c3u0Q7KGfbowFSvS98xLM2RsYpZ2UjPIf0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.HotplugOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.HotplugOptions.html",
+          "hash": "oryn+orMsdsSToJRQEYSqOJAo8uMhTo4QAUKSK344u4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.IUsbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.IUsbContext.html",
+          "hash": "A+BKIERQoNDgCNImL1ASoC7kkYlK/2LcmkyXecu56YU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.IUsbDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.IUsbDevice.html",
+          "hash": "+P2YZ5MYyM/98IrJ3XAKBaHgQY+nzkPGhJLDmAuMczM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.NativeLibraryVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.NativeLibraryVersion.html",
+          "hash": "hzXkvqYq2rc5fDFCn5DxdZ0hGclctfj/NZIi5f2sOns="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UnixNativeTimeval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UnixNativeTimeval.html",
+          "hash": "jWF6XSsc51Th+c4bsd02WqaKGannmVZ424r/Up+c8e8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UsbContext.DeviceEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UsbContext.DeviceEventHandler.html",
+          "hash": "IHd/W/KE4h9P+sWZiXmkdp9uy1SpHT3FlXxXrNnHLmg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UsbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UsbContext.html",
+          "hash": "D6yloHCyZg7a/oLyr5KXIU1SBGzcJI10wLUOp5X5D28="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UsbDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UsbDevice.html",
+          "hash": "zBn6KGo5ZvlFiBzBuS7pGCVJl32pdsuJOUBNIE/nCtM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UsbDeviceCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UsbDeviceCollection.html",
+          "hash": "X/So9jhlobvTtrEbPdmXU62y4SpSkiDLYhxnqmCON6Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UsbEndpointBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UsbEndpointBase.html",
+          "hash": "pVvEDdV2Pjb5UTpxY4gFUw5Id8wPB2SLNb75uYU3G6w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UsbEndpointReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UsbEndpointReader.html",
+          "hash": "JXwJnVZiuPqapsr2tU1HqkXKnTw8B0Ui8nJmfHDngvM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UsbEndpointWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UsbEndpointWriter.html",
+          "hash": "hK5Q3mkM8aJuUh/xKLcQQ+sVVqeztuCmcRcRF8OvTNo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.UsbException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.UsbException.html",
+          "hash": "khnZHI+nut4ORQ1Ek+ODj24s3YJRPNkPHJNCBq+yzAE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LibUsb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LibUsb.html",
+          "hash": "dFmYC0ig5xAh3vtfDAj0HR91Eem1j7EyC1AhuqG2o5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.LogLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.LogLevel.html",
+          "hash": "b5p0j7sbUM82LHQJRYDXea6FhcSfS21NGXjUG2N/dN8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.EndpointType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.EndpointType.html",
+          "hash": "fSeGU/MXH4lbgv57xbpl19kAS33xnMVkHg7aS8de0iw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.Helper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.Helper.html",
+          "hash": "gZX8gOka9qp/spUeOIpH4BofrTm78i+iRjPJ+iEGT7k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.PinnedHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.PinnedHandle.html",
+          "hash": "hFtiZVckvupGwFRn9Oke9JQ9gWNJp2+CKg+NQL3KiIY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.ReadEndpointID.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.ReadEndpointID.html",
+          "hash": "YdafK8AzVRsCRIY67dGrvrDis7W1BQWHRaAJCok8HvA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.SafeContextHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.SafeContextHandle.html",
+          "hash": "qYr2+n4fXjyptzFodfnB+PIOQPgUyk+NcVyepR+svnI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.UsbConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.UsbConstants.html",
+          "hash": "YCxWlXFepBSbEOIpQV2SISYE2cOECbdZcjwv0sa9+0A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.UsbCtrlFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.UsbCtrlFlags.html",
+          "hash": "KBCvPwgmKS7aDwJDP5EPPWp3s2wn4wOUegdbRIcECbY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.UsbDeviceFinder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.UsbDeviceFinder.html",
+          "hash": "Q8i81wt/d/1jBg/XN+zBkvOfprHwUHWpXZCYBxSoLTw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.UsbRequestRecipient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.UsbRequestRecipient.html",
+          "hash": "uAeTQRVLZsfPlCa8g1e6n7QSg4hdYwR6p2XlE08UBoQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.UsbRequestType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.UsbRequestType.html",
+          "hash": "zu4WAo0Q7fDrPkxNH2uxNupdEc+OTclr6Rqs/wj+Gvw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.UsbSetupPacket.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.UsbSetupPacket.html",
+          "hash": "vC1ECNWPfm3GUD3PI18QX7Ym2vOyzz1EDPEwVFPR6I4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.UsbStream.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.UsbStream.html",
+          "hash": "IEyVKKgGSfmb1Nff3IbL82zVH77SVwqm6I69biQfAJE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.WriteEndpointID.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.WriteEndpointID.html",
+          "hash": "SCJVfedViNHl2mophJnug47hwnl3/O37e5wU697ApHI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Main.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Main.html",
+          "hash": "sVOajJZJzEe/BAsIJFkwAEFn+CQTSufiHOqy4+CzCTs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Pollfd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Pollfd.html",
+          "hash": "/C/gmT9zWD7DiZT2Yw7ZI6XKnCyo8JTTf5ecnH4WwPU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.PollfdAddedDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.PollfdAddedDelegate.html",
+          "hash": "ioqeyI7xgPxmcPQgMHMb92ForOhUd6Szf73YqXnG7Pk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.PollfdRemovedDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.PollfdRemovedDelegate.html",
+          "hash": "Wj9YZF59w0XgWNROZytsYuBqRLQX9T0fECVQspRaEwg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.RequestRecipient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.RequestRecipient.html",
+          "hash": "qxuez8tw9JLkeKt190+CPCVE8lCvpUpYZx0vrjVXpSg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.RequestType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.RequestType.html",
+          "hash": "QEZMB2HwsQ6fMDwsWHYAHDnVl3P4xpWISKw54zcIKQ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Speed.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Speed.html",
+          "hash": "gPwpvknOaOvJFejAmrHBS2cxRbvmsyARz1QUzouIZSM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.SsEndpointCompanionDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.SsEndpointCompanionDescriptor.html",
+          "hash": "nEgjHAW7NGVVbHgjME9RspiXtD5QY0j2TuJJlvFA/es="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.SsUsbDeviceCapabilityAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.SsUsbDeviceCapabilityAttributes.html",
+          "hash": "8k3562wwWQcfCfkIbFII2jbR1XvBoT3f/38rx2h/0AE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.SsUsbDeviceCapabilityDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.SsUsbDeviceCapabilityDescriptor.html",
+          "hash": "+SrdojhXABj8YjjV6QMgjvCcYv3nrl1N0r9wP5XoQDU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.StandardRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.StandardRequest.html",
+          "hash": "822F//70oeQsHOoK+Z8cMqQCykfa6/ElQtwVIO09qBs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.SupportedSpeed.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.SupportedSpeed.html",
+          "hash": "dpsKOdDchvOuM6oq24v8bMA2jXzHlbfgXehCSNrnASk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Transfer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Transfer.html",
+          "hash": "Ky25c+yB4Mzm6I4n+jaec3XXDD6Ncc4Ulo+w0h0vUU4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.TransferDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.TransferDelegate.html",
+          "hash": "GR46y/bGGWWClLEQmSRUfARMyF4ZfyMpvgmDogIrO/Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.TransferFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.TransferFlags.html",
+          "hash": "7NjVwJcSuPWcR+wSavS5uVhqkzNsYa8zeQ6khtueyuU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.TransferStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.TransferStatus.html",
+          "hash": "gq9CSKX5Awvj/VyvNhJ5Mc1Cqh9/ChlVkq1oZgvCDSk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.TransferType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.TransferType.html",
+          "hash": "740KFhH3skZpUun+8vWP6UHW1Fll7sVfpuO12pSMxvI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Usb20ExtensionAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Usb20ExtensionAttributes.html",
+          "hash": "e4YspihR00pl05exY6CjviveINUXDIAl2n9TBdKt4rw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Usb20ExtensionDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Usb20ExtensionDescriptor.html",
+          "hash": "IcGD3qDnPalL2d5XvBrL9YFhrnKfrpMbP1lt+DJmJiI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.Version.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.Version.html",
+          "hash": "bvsyGcjSdW53f2NPnsSp/tVvuk0jNfUYTUZIg4R0oCw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LibUsbDotNet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LibUsbDotNet.html",
+          "hash": "GkRNB53tUVzVhHXYFNFKQxBxx5BjbN5KO0aRdBpF3QU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "XCgtEKJ/1xxEVQAa+ctPaXCdBSGBvtW2Ujdi/psLY54="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "8UzBd4xkjEsfef73jSxuY8yaMCRC6UEx871nDarFMHk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "TJU2T/IHzeAOyMex+7sbEaNNByuEt/hRzTY7k6AFIgc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "R1Qd7/lEngCGd6IaRX/QHsCF0UYwIjR3ZP6Yo5oyIHk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 90,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
